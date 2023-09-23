@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/sonlt92/beegadget-bot">
         <kbd>
-            <img width="250" src="https://imgur.com/czT4SEE" alt="BeeGadget Logo">
+            <img width="250" src="https://i.imgur.com/czT4SEE.png" alt="BeeGadget Logo">
         </kbd>
     </a>
 
