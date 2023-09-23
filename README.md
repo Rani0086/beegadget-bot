@@ -1,7 +1,8 @@
 <p align="center">
-    <a href="https://github.com/weebzone/WZML">
+    <a href="https://github.com/weebzone/WZML](https://github.com/sonlt92/beegadget-bot">
         <kbd>
-            <img width="250" src="https://graph.org/file/639fe4239b78e5862b302.jpg" alt="WZML-X Logo">
+            <img width="250" src="![BeeGadget-01](https://github.com/sonlt92/beegadget-bot/assets/17571366/178a1e36-32ba-46cd-99e8-b2b8d2fff0aa)
+" alt="BeeGadget Logo">
         </kbd>
     </a>
 
